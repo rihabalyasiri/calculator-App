@@ -58,59 +58,59 @@ a {
 }
 
 .plus {
-    order: 2;
+    order: 7;
 }
 
 .minus {
-    order: 3;
-}
-
-.mul {
-    order: 0;
-}
-
-.div {
-    order: 1;
-}
-
-.equal {
-    order: 15;
-}
-
-.dot {
-    order: 14;
-}
-
-.zero {
-    order: 12;
-}
-
-.one {
-    order: 13;
-}
-
-.two {
-    order: 8;
-}
-
-.three {
-    order: 9;
-}
-
-.four {
-    order: 10;
-}
-
-.five {
     order: 11;
 }
 
+.mul {
+    order: 15;
+}
+
+.div {
+    order: 19;
+}
+
+.equal {
+    order: 18;
+}
+
+.dot {
+    order: 17;
+}
+
+.zero {
+    order: 16;
+}
+
+.one {
+    order: 12;
+}
+
+.two {
+    order: 13;
+}
+
+.three {
+    order: 14;
+}
+
+.four {
+    order: 8;
+}
+
+.five {
+    order: 9;
+}
+
 .six {
-    order: 4;
+    order: 10;
 }
 
 .seven {
-    order: 5;
+    order: 4;
 }
 
 .eight {
@@ -118,6 +118,22 @@ a {
 }
 
 .nine {
-    order: 7;
+    order: 6;
+}
+
+.square {
+    order:0;
+}
+
+.hoch {
+    order:1;
+}
+
+.ln {
+    order:2;
+}
+
+.del {
+    order:3;
 }
 
